@@ -1,0 +1,5 @@
+1. Terminal is a command-line system that can be used for things such as creating files, folders, and for using git.
+
+2. Github is a site that hosts git repositories for other people to use or contribute to. Git was a program created to help keep track of file changes. It is local therefore fast but also widely adopted as it is free to use.
+
+3. We use Github because it is the most popular hosting platform for repositories. Not only is it popular but it is free and the repositories are public for everyone to use. We can also use it in our future careers in order to showcase our future projects.
